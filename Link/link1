@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+   <title>Организация ссылок на другие ресурсы</title>
+</head>
+  <body>
+    <a href="mailto:vv@tut.by">Написать Виталию Валентиновичу</a>
+    <p><a href="01.doc">Документ с картинкой</a></p>
+    <p><a href="ftp://ftr.microsoft.com/"> FTP-сервер компании Micrisoft </a></p>
+  </body>
+</html>

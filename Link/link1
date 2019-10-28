@@ -5,7 +5,8 @@
 </head>
   <body>
     <a href="mailto:vv@tut.by">Написать Виталию Валентиновичу</a>
+    <p><a href="01.jpg"></a>Рыбка</p>
     <p><a href="01.doc">Документ с картинкой</a></p>
-    <p><a href="ftp://ftr.microsoft.com/"> FTP-сервер компании Micrisoft </a></p>
+    <p><a href="ftp://ftp.microsoft.com/"> FTP-сервер компании Micrisoft </a></p>
   </body>
 </html>
